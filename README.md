@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FAEB91&text=Hi,%20I'm%20SOHEE&fontAlign=17&fontSize=30&fontAlignY=32&animation=fadeIn&fontColor=444444" alt="header"/>
   <h3>⭐ About Me</h3>
-  <img src="https://img.shields.io/badge/Portfolio-FAEB91?style=for-the-badge&logo=Notion&logoColor=000000"/>
+  <a href="https://hohee-porfolio.notion.site/45ab290316b247fe98b39925b0fe29a6?pvs=4"><img src="https://img.shields.io/badge/Portfolio-FAEB91?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
   <a href="https://hohee-hee.tistory.com/"><img src="https://img.shields.io/badge/blog-EB6552?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
   <a href="mailto:sp_qh@naver.com"><img src="https://img.shields.io/badge/email-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/></a>
 
